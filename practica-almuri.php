@@ -1,6 +1,10 @@
 <?php
 
 /**
+ * Probando GITHUB
+ */
+
+/**
  * Devuelve cualquier cosa porque esta función es de pega
  *
  * @author Alberto Manuel Muñoz Rivas
