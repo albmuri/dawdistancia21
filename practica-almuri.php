@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Probando GITHUB5
+ * Probando GITHUB6
  */
 
 /**
